@@ -26,6 +26,7 @@ public class Util {
     }
 
     public static SessionFactory getSessionFactory() {
+        return null;
     }
 
     public void closeConnection () {
